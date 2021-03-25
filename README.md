@@ -2,7 +2,7 @@
 
 The purpose of this bot (known as Hack Bot) is to perform functions as specified by the needs of the Independent Hackers discord server.
 
-It is being written using Python 3.9.2.
+It is being written using Python 3.9.2, and using the Discord.py API reference. https://discordpy.readthedocs.io/en/latest/api.html#
 
 Right now, the first version I'm programming is really just to allow users to self-assign roles. For example: their country/region, programming language/interests, and occupation (i.e. dev or student). There are some other features currently integrated (8-ball, ban, unban, etc.) as you can see in the main bot code file, but those are mostly just for testing in the currently locked "roles" server channel to make sure my code actually works.
 
